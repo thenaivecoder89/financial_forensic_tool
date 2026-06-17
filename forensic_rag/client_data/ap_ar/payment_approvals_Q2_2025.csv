@@ -1,0 +1,6 @@
+approval_id,payment_ref,amount,requested_by,approved_by,approval_date,threshold_required,threshold_met,notes
+APP-250415-008,PAY-250415-008,24800,s.ali,m.kareem,2025-04-15,CFO,Yes,Standard run
+APP-250428-012,PAY-250428-012,24800,s.ali,s.ali,2025-04-28,CFO,No,Manual urgent payment; self-approved
+APP-250507-003,DSC-MAY-01,4950,n.faraj,n.faraj,2025-05-07,"Department Head up to BHD 5,000",Technically yes; pattern review required,Split payment 1
+APP-250508-003,DSC-MAY-02,4875,n.faraj,n.faraj,2025-05-08,"Department Head up to BHD 5,000",Technically yes; pattern review required,Split payment 2
+APP-250509-003,DSC-MAY-03,4990,n.faraj,n.faraj,2025-05-09,"Department Head up to BHD 5,000",Technically yes; pattern review required,Split payment 3

@@ -1,0 +1,44 @@
+date,bank_account,transaction_id,description,debit,credit,balance,counterparty,reference
+2025-04-15,BBK Main 001,BBK-250415-008,Transfer to Pearl Crescent Trading W.L.L. INV PC-2025-041,24800,0,312500,Pearl Crescent Trading W.L.L.,PAY-250415-008
+2025-04-28,BBK Main 001,BBK-250428-012,Urgent manual payment Pearl Crescent PC-2025-041,24800,0,287700,Pearl Crescent Trading W.L.L.,PAY-250428-012
+2025-05-07,BBK Main 001,BBK-250507-003,Desert Star Consulting tranche 1,4950,0,281800,Desert Star Consulting SPC,DSC-MAY-01
+2025-05-08,BBK Main 001,BBK-250508-003,Desert Star Consulting tranche 2,4875,0,276925,Desert Star Consulting SPC,DSC-MAY-02
+2025-05-09,BBK Main 001,BBK-250509-003,Desert Star Consulting tranche 3,4990,0,271935,Desert Star Consulting SPC,DSC-MAY-03
+2025-05-16,BBK Main 001,BBK-250516-001,Incoming transfer Redwood Capital FZE strategic advance,0,75000,346935,Redwood Capital FZE,BANK-CR-250516
+2025-06-04,BBK Main 001,BBK-250604-005,Online transfer to Yousuf Rahman - site facilitation,10000,0,291500,Yousuf Rahman,PAY-250604-005
+2025-06-18,BBK Main 001,BBK-250618-010,Intercompany advance to Horizon Holding SPC,35000,0,214600,Horizon Holding SPC,INT-ADV-0618
+2025-06-22,NBB Operations 814,NBB-250622-002,Receipt from Blue Sand International Trading,0,42000,61500,Blue Sand International Trading,CUS-BLUESAND-REC
+2025-04-22,BBK Main 001,BBK-REC-001,Customer receipt,0,22500,,Gulf Horizon Properties W.L.L.,AR-REC-001
+2025-05-22,BBK Main 001,BBK-PAY-002,Supplier payment,2200,0,,CleanPro Materials SPC,SUP-PAY-002
+2025-04-01,BBK Main 001,BBK-PAY-003,Supplier payment,3600,0,,CleanPro Materials SPC,SUP-PAY-003
+2025-05-07,BBK Main 001,BBK-REC-004,Customer receipt,0,31000,,Blue Sand International Trading,AR-REC-004
+2025-04-20,BBK Main 001,BBK-REC-005,Customer receipt,0,12500,,Al Manama Hotels B.S.C.,AR-REC-005
+2025-06-14,BBK Main 001,BBK-PAY-006,Supplier payment,1400,0,,Manama Tools W.L.L.,SUP-PAY-006
+2025-04-08,BBK Main 001,BBK-REC-007,Customer receipt,0,22500,,Harbour Mall Services,AR-REC-007
+2025-06-07,BBK Main 001,BBK-REC-008,Customer receipt,0,31000,,Al Manama Hotels B.S.C.,AR-REC-008
+2025-04-24,BBK Main 001,BBK-REC-009,Customer receipt,0,8500,,Gulf Horizon Properties W.L.L.,AR-REC-009
+2025-05-22,BBK Main 001,BBK-REC-010,Customer receipt,0,31000,,Gulf Horizon Properties W.L.L.,AR-REC-010
+2025-06-14,BBK Main 001,BBK-PAY-011,Supplier payment,9800,0,,Gulf Supplies SPC,SUP-PAY-011
+2025-05-24,BBK Main 001,BBK-PAY-012,Supplier payment,9800,0,,Manama Tools W.L.L.,SUP-PAY-012
+2025-05-04,BBK Main 001,BBK-REC-013,Customer receipt,0,18000,,Gulf Horizon Properties W.L.L.,AR-REC-013
+2025-05-04,BBK Main 001,BBK-REC-014,Customer receipt,0,18000,,Blue Sand International Trading,AR-REC-014
+2025-05-11,BBK Main 001,BBK-PAY-015,Supplier payment,1400,0,,Gulf Supplies SPC,SUP-PAY-015
+2025-05-29,BBK Main 001,BBK-PAY-016,Supplier payment,9800,0,,Gulf Supplies SPC,SUP-PAY-016
+2025-04-10,BBK Main 001,BBK-PAY-017,Supplier payment,9800,0,,Manama Tools W.L.L.,SUP-PAY-017
+2025-04-17,BBK Main 001,BBK-PAY-018,Supplier payment,1400,0,,Falcon Maintenance W.L.L.,SUP-PAY-018
+2025-05-18,BBK Main 001,BBK-REC-019,Customer receipt,0,22500,,Harbour Mall Services,AR-REC-019
+2025-06-30,BBK Main 001,BBK-REC-020,Customer receipt,0,31000,,Al Manama Hotels B.S.C.,AR-REC-020
+2025-06-25,BBK Main 001,BBK-PAY-021,Supplier payment,3600,0,,Gulf Supplies SPC,SUP-PAY-021
+2025-04-18,BBK Main 001,BBK-REC-022,Customer receipt,0,8500,,Harbour Mall Services,AR-REC-022
+2025-04-20,BBK Main 001,BBK-REC-023,Customer receipt,0,31000,,Gulf Horizon Properties W.L.L.,AR-REC-023
+2025-05-14,BBK Main 001,BBK-REC-024,Customer receipt,0,18000,,Harbour Mall Services,AR-REC-024
+2025-06-02,BBK Main 001,BBK-REC-025,Customer receipt,0,8500,,Al Manama Hotels B.S.C.,AR-REC-025
+2025-06-21,BBK Main 001,BBK-REC-026,Customer receipt,0,18000,,Al Manama Hotels B.S.C.,AR-REC-026
+2025-04-01,BBK Main 001,BBK-REC-027,Customer receipt,0,12500,,Delta Retail Bahrain SPC,AR-REC-027
+2025-04-21,BBK Main 001,BBK-PAY-028,Supplier payment,9800,0,,CleanPro Materials SPC,SUP-PAY-028
+2025-06-11,BBK Main 001,BBK-REC-029,Customer receipt,0,8500,,Gulf Horizon Properties W.L.L.,AR-REC-029
+2025-06-09,BBK Main 001,BBK-REC-030,Customer receipt,0,18000,,Harbour Mall Services,AR-REC-030
+2025-06-10,BBK Main 001,BBK-REC-031,Customer receipt,0,12500,,Al Manama Hotels B.S.C.,AR-REC-031
+2025-05-10,BBK Main 001,BBK-REC-032,Customer receipt,0,8500,,Delta Retail Bahrain SPC,AR-REC-032
+2025-04-27,BBK Main 001,BBK-PAY-033,Supplier payment,1400,0,,Manama Tools W.L.L.,SUP-PAY-033
+2025-06-11,BBK Main 001,BBK-PAY-034,Supplier payment,6500,0,,Falcon Maintenance W.L.L.,SUP-PAY-034

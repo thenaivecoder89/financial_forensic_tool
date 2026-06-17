@@ -1,0 +1,6 @@
+invoice_no,vendor_id,invoice_amount,invoice_date,description,duplicate_indicator
+PC-2025-041,V-014,24800,2025-04-02,Emergency maintenance subcontract for hospitality portfolio,Duplicate payment observed
+DSC-MAY-01,V-019,4950,2025-05-07,Consulting retainer tranche 1,Potential split approval
+DSC-MAY-02,V-019,4875,2025-05-08,Consulting retainer tranche 2,Potential split approval
+DSC-MAY-03,V-019,4990,2025-05-09,Consulting retainer tranche 3,Potential split approval
+FM-2025-078,V-021,45000,2025-06-10,Additional emergency works claim,Unaccrued claim

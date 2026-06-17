@@ -1,0 +1,57 @@
+date,journal_id,account_code,account_name,debit,credit,counterparty,description,prepared_by,approved_by,source_doc
+2025-04-02,JE-250402-001,5100,Subcontractor cost,24800,0,Pearl Crescent Trading W.L.L.,Invoice PC-2025-041 - maintenance subcontract,s.ali,m.kareem,INV-PC-2025-041
+2025-04-02,JE-250402-002,2000,Trade payables,0,24800,Pearl Crescent Trading W.L.L.,AP recognition PC-2025-041,s.ali,m.kareem,INV-PC-2025-041
+2025-04-15,JE-250415-006,2000,Trade payables,24800,0,Pearl Crescent Trading W.L.L.,Payment clearing PC-2025-041,s.ali,m.kareem,PAY-250415-008
+2025-04-28,JE-250428-009,2000,Trade payables,24800,0,Pearl Crescent Trading W.L.L.,Manual urgent payment PC-2025-041 - duplicate clearing posted after supplier call,s.ali,s.ali,PAY-250428-012
+2025-05-07,JE-250507-003,6100,Professional fees,4950,0,Desert Star Consulting SPC,Consulting retainer May tranche 1,n.faraj,n.faraj,DSC-MAY-01
+2025-05-08,JE-250508-003,6100,Professional fees,4875,0,Desert Star Consulting SPC,Consulting retainer May tranche 2,n.faraj,n.faraj,DSC-MAY-02
+2025-05-09,JE-250509-003,6100,Professional fees,4990,0,Desert Star Consulting SPC,Consulting retainer May tranche 3,n.faraj,n.faraj,DSC-MAY-03
+2025-05-16,JE-250516-011,1000,Cash and bank,75000,0,Redwood Capital FZE,Incoming transfer - strategic advance,s.ali,m.kareem,BANK-CR-250516
+2025-05-16,JE-250516-012,2200,Accrued expenses,0,75000,Redwood Capital FZE,Temporary liability pending documentation,s.ali,m.kareem,MANUAL
+2025-06-04,JE-250604-008,6200,Repairs and maintenance,10000,0,Yousuf Rahman,Urgent site facilitation payment - no PO,n.faraj,n.faraj,PAY-250604-005
+2025-06-25,JE-250625-017,1500,"Property, plant and equipment",0,38500,Vehicle disposal,Disposal of service van AH-2145,s.ali,m.kareem,FA-DISP-06
+2025-06-25,JE-250625-018,6100,Professional fees,14500,0,Vehicle disposal loss,Loss on disposal posted to professional fees pending reclass,s.ali,m.kareem,FA-DISP-06
+2025-06-21,JE-NORM-001,5200,Operating expense,1200,0,Gulf Supplies SPC,Ordinary course operating cost,s.ali,m.kareem,NORM-001
+2025-04-18,JE-NORM-002,6200,Operating expense,7800,0,Gulf Supplies SPC,Ordinary course operating cost,s.ali,a.hassan,NORM-002
+2025-04-05,JE-NORM-003,5100,Operating expense,1200,0,Gulf Supplies SPC,Ordinary course operating cost,s.ali,m.kareem,NORM-003
+2025-06-11,JE-NORM-004,6200,Operating expense,7800,0,Falcon Maintenance W.L.L.,Ordinary course operating cost,r.jassim,m.kareem,NORM-004
+2025-05-28,JE-NORM-005,5000,Operating expense,2300,0,Bahrain Tech Services,Ordinary course operating cost,s.ali,a.hassan,NORM-005
+2025-05-14,JE-NORM-006,5100,Operating expense,1850,0,Manama Tools W.L.L.,Ordinary course operating cost,r.jassim,m.kareem,NORM-006
+2025-04-12,JE-NORM-007,5200,Operating expense,1200,0,CleanPro Materials SPC,Ordinary course operating cost,r.jassim,a.hassan,NORM-007
+2025-04-06,JE-NORM-008,5000,Operating expense,4200,0,CleanPro Materials SPC,Ordinary course operating cost,r.jassim,m.kareem,NORM-008
+2025-06-10,JE-NORM-009,6200,Operating expense,11200,0,Manama Tools W.L.L.,Ordinary course operating cost,r.jassim,m.kareem,NORM-009
+2025-06-30,JE-NORM-010,5100,Operating expense,1200,0,Gulf Supplies SPC,Ordinary course operating cost,r.jassim,m.kareem,NORM-010
+2025-04-30,JE-NORM-011,5200,Operating expense,3650,0,Gulf Supplies SPC,Ordinary course operating cost,r.jassim,a.hassan,NORM-011
+2025-04-21,JE-NORM-012,5100,Operating expense,2300,0,Manama Tools W.L.L.,Ordinary course operating cost,l.thomas,a.hassan,NORM-012
+2025-06-29,JE-NORM-013,5100,Operating expense,4200,0,Gulf Supplies SPC,Ordinary course operating cost,l.thomas,m.kareem,NORM-013
+2025-04-21,JE-NORM-014,5200,Operating expense,3650,0,CleanPro Materials SPC,Ordinary course operating cost,l.thomas,m.kareem,NORM-014
+2025-06-27,JE-NORM-015,5000,Operating expense,11200,0,Manama Tools W.L.L.,Ordinary course operating cost,s.ali,m.kareem,NORM-015
+2025-05-11,JE-NORM-016,5000,Operating expense,2300,0,CleanPro Materials SPC,Ordinary course operating cost,s.ali,a.hassan,NORM-016
+2025-04-28,JE-NORM-017,6000,Operating expense,3650,0,CleanPro Materials SPC,Ordinary course operating cost,s.ali,a.hassan,NORM-017
+2025-04-18,JE-NORM-018,6200,Operating expense,7800,0,Falcon Maintenance W.L.L.,Ordinary course operating cost,l.thomas,a.hassan,NORM-018
+2025-06-14,JE-NORM-019,6000,Operating expense,4200,0,CleanPro Materials SPC,Ordinary course operating cost,r.jassim,m.kareem,NORM-019
+2025-04-18,JE-NORM-020,5000,Operating expense,3650,0,Bahrain Tech Services,Ordinary course operating cost,s.ali,m.kareem,NORM-020
+2025-04-20,JE-NORM-021,6000,Operating expense,11200,0,Falcon Maintenance W.L.L.,Ordinary course operating cost,l.thomas,m.kareem,NORM-021
+2025-05-20,JE-NORM-022,6000,Operating expense,4200,0,CleanPro Materials SPC,Ordinary course operating cost,l.thomas,a.hassan,NORM-022
+2025-06-10,JE-NORM-023,5000,Operating expense,7800,0,Gulf Supplies SPC,Ordinary course operating cost,l.thomas,a.hassan,NORM-023
+2025-06-22,JE-NORM-024,5200,Operating expense,1200,0,Manama Tools W.L.L.,Ordinary course operating cost,r.jassim,m.kareem,NORM-024
+2025-05-29,JE-NORM-025,5200,Operating expense,7800,0,Gulf Supplies SPC,Ordinary course operating cost,l.thomas,m.kareem,NORM-025
+2025-06-04,JE-NORM-026,5200,Operating expense,11200,0,Gulf Supplies SPC,Ordinary course operating cost,l.thomas,m.kareem,NORM-026
+2025-04-20,JE-NORM-027,5100,Operating expense,11200,0,Manama Tools W.L.L.,Ordinary course operating cost,l.thomas,m.kareem,NORM-027
+2025-06-16,JE-NORM-028,5000,Operating expense,3650,0,Manama Tools W.L.L.,Ordinary course operating cost,s.ali,a.hassan,NORM-028
+2025-05-10,JE-NORM-029,5100,Operating expense,1200,0,Falcon Maintenance W.L.L.,Ordinary course operating cost,l.thomas,m.kareem,NORM-029
+2025-04-11,JE-NORM-030,5000,Operating expense,11200,0,CleanPro Materials SPC,Ordinary course operating cost,l.thomas,m.kareem,NORM-030
+2025-04-17,JE-NORM-031,5100,Operating expense,4200,0,CleanPro Materials SPC,Ordinary course operating cost,r.jassim,a.hassan,NORM-031
+2025-04-28,JE-NORM-032,5100,Operating expense,11200,0,Bahrain Tech Services,Ordinary course operating cost,l.thomas,a.hassan,NORM-032
+2025-05-22,JE-NORM-033,6200,Operating expense,3650,0,Manama Tools W.L.L.,Ordinary course operating cost,r.jassim,m.kareem,NORM-033
+2025-05-02,JE-NORM-034,5200,Operating expense,1200,0,Falcon Maintenance W.L.L.,Ordinary course operating cost,s.ali,m.kareem,NORM-034
+2025-06-15,JE-NORM-035,5000,Operating expense,1200,0,Falcon Maintenance W.L.L.,Ordinary course operating cost,l.thomas,m.kareem,NORM-035
+2025-04-30,JE-NORM-036,5200,Operating expense,1200,0,Gulf Supplies SPC,Ordinary course operating cost,s.ali,m.kareem,NORM-036
+2025-05-06,JE-NORM-037,6200,Operating expense,1850,0,CleanPro Materials SPC,Ordinary course operating cost,s.ali,a.hassan,NORM-037
+2025-05-02,JE-NORM-038,6000,Operating expense,11200,0,CleanPro Materials SPC,Ordinary course operating cost,s.ali,m.kareem,NORM-038
+2025-04-13,JE-NORM-039,6000,Operating expense,2300,0,CleanPro Materials SPC,Ordinary course operating cost,r.jassim,a.hassan,NORM-039
+2025-04-07,JE-NORM-040,6000,Operating expense,1200,0,Gulf Supplies SPC,Ordinary course operating cost,l.thomas,a.hassan,NORM-040
+2025-04-14,JE-NORM-041,5100,Operating expense,1850,0,Falcon Maintenance W.L.L.,Ordinary course operating cost,l.thomas,a.hassan,NORM-041
+2025-04-18,JE-NORM-042,5200,Operating expense,1850,0,CleanPro Materials SPC,Ordinary course operating cost,r.jassim,m.kareem,NORM-042
+2025-04-10,JE-NORM-043,6200,Operating expense,11200,0,CleanPro Materials SPC,Ordinary course operating cost,s.ali,m.kareem,NORM-043
+2025-06-23,JE-NORM-044,5000,Operating expense,11200,0,Bahrain Tech Services,Ordinary course operating cost,s.ali,m.kareem,NORM-044

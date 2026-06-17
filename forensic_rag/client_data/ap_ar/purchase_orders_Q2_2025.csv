@@ -1,0 +1,3 @@
+po_no,vendor_id,vendor_name,po_date,po_amount,requested_by,approved_by,approval_level,status,notes
+PO-2503-044,V-014,Pearl Crescent Trading W.L.L.,2025-03-29,24800,Operations Manager,m.kareem,CFO approval required,Approved,No competitive quotation attached
+PO-2505-091,V-021,Falcon Maintenance W.L.L.,2025-05-29,45000,Operations Manager,m.kareem,CEO approval required,Disputed,Supplier claims scope expansion not approved

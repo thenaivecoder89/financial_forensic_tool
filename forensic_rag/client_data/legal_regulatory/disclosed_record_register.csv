@@ -1,0 +1,8 @@
+doc_id,document_name,folder,provided,notes
+DR-001,Audited Financial Statements FY2024,financials,Yes,Discloses no material litigation
+DR-002,Management Accounts Jan-Jun 2025,financials,Yes,Shows liquidity stress
+DR-003,General Ledger Q2 2025,financials,Yes,Contains manual entries
+DR-004,Bank Statements Q2 2025,bank,Yes,Includes unexplained transfer and duplicate payment
+DR-005,Vendor Master,ap_ar,Yes,Related party indicator embedded
+DR-006,Delta Retail Side Letter,contracts,No,Not included in original disclosed record but found later
+DR-007,Falcon Maintenance Claim Letter,legal_regulatory,Yes,Not accrued in TB

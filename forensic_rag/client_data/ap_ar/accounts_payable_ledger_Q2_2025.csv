@@ -1,0 +1,31 @@
+vendor_id,vendor_name,invoice_no,invoice_date,invoice_amount,po_no,due_date,payment_status,payment_refs,support_status
+V-014,Pearl Crescent Trading W.L.L.,PC-2025-041,2025-04-02,24800,PO-2503-044,2025-04-30,Paid twice,PAY-250415-008; PAY-250428-012,Invoice and PO available; no GRN
+V-019,Desert Star Consulting SPC,DSC-MAY-01,2025-05-07,4950,,2025-05-07,Paid,DSC-MAY-01,No signed contract
+V-019,Desert Star Consulting SPC,DSC-MAY-02,2025-05-08,4875,,2025-05-08,Paid,DSC-MAY-02,No signed contract
+V-019,Desert Star Consulting SPC,DSC-MAY-03,2025-05-09,4990,,2025-05-09,Paid,DSC-MAY-03,No signed contract
+V-021,Falcon Maintenance W.L.L.,FM-2025-078,2025-06-10,45000,PO-2505-091,2025-06-30,Disputed,,Claim pending; not accrued in TB
+V-001,Gulf Supplies SPC,NORM-AP-001,2025-04-23,2400,PO-N-001,2025-06-26,Open,SUP-PAY-001,Complete
+V-001,Gulf Supplies SPC,NORM-AP-002,2025-05-13,2400,PO-N-002,2025-06-20,Open,SUP-PAY-002,Complete
+V-001,Gulf Supplies SPC,NORM-AP-003,2025-04-21,3150,PO-N-003,2025-06-20,Paid,SUP-PAY-003,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-004,2025-05-31,1250,PO-N-004,2025-05-15,Paid,SUP-PAY-004,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-005,2025-05-10,3150,PO-N-005,2025-06-22,Paid,SUP-PAY-005,Complete
+V-001,Gulf Supplies SPC,NORM-AP-006,2025-06-24,1250,PO-N-006,2025-05-13,Open,SUP-PAY-006,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-007,2025-04-09,3150,PO-N-007,2025-06-19,Open,SUP-PAY-007,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-008,2025-06-05,13500,PO-N-008,2025-05-26,Open,SUP-PAY-008,Complete
+V-001,Gulf Supplies SPC,NORM-AP-009,2025-05-04,1250,PO-N-009,2025-05-12,Open,SUP-PAY-009,Complete
+V-001,Gulf Supplies SPC,NORM-AP-010,2025-06-16,1250,PO-N-010,2025-05-28,Open,SUP-PAY-010,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-011,2025-06-17,7600,PO-N-011,2025-06-02,Paid,SUP-PAY-011,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-012,2025-04-25,9800,PO-N-012,2025-05-17,Paid,SUP-PAY-012,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-013,2025-06-06,1250,PO-N-013,2025-06-29,Paid,SUP-PAY-013,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-014,2025-04-09,7600,PO-N-014,2025-06-30,Open,SUP-PAY-014,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-015,2025-04-16,13500,PO-N-015,2025-06-16,Open,SUP-PAY-015,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-016,2025-05-23,13500,PO-N-016,2025-05-21,Open,SUP-PAY-016,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-017,2025-04-17,9800,PO-N-017,2025-05-13,Open,SUP-PAY-017,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-018,2025-04-23,13500,PO-N-018,2025-06-09,Open,SUP-PAY-018,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-019,2025-04-01,9800,PO-N-019,2025-05-20,Open,SUP-PAY-019,Complete
+V-001,Gulf Supplies SPC,NORM-AP-020,2025-06-14,7600,PO-N-020,2025-06-08,Open,SUP-PAY-020,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-021,2025-05-27,7600,PO-N-021,2025-06-13,Paid,SUP-PAY-021,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-022,2025-04-22,13500,PO-N-022,2025-06-12,Paid,SUP-PAY-022,Complete
+V-021,Falcon Maintenance W.L.L.,NORM-AP-023,2025-06-24,9800,PO-N-023,2025-06-10,Open,SUP-PAY-023,Complete
+V-001,Gulf Supplies SPC,NORM-AP-024,2025-05-10,2400,PO-N-024,2025-05-15,Paid,SUP-PAY-024,Complete
+V-001,Gulf Supplies SPC,NORM-AP-025,2025-04-06,1250,PO-N-025,2025-05-16,Open,SUP-PAY-025,Complete

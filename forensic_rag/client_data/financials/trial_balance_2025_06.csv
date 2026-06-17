@@ -1,0 +1,20 @@
+account_code,account_name,debit,credit
+1000,Cash and bank,196500,0
+1100,Trade receivables,936000,0
+1200,Inventory and consumables,189500,0
+1500,"Property, plant and equipment",1332000,0
+2000,Trade payables,0,812500
+2100,Bank loans,0,980000
+2200,Accrued expenses,0,248500
+3000,Share capital,0,500000
+3100,Retained earnings,0,113500
+4000,Facilities management revenue,0,938000
+4100,Service contract revenue,0,478000
+5000,Direct labour cost,512000,0
+5100,Subcontractor cost,384000,0
+5200,Materials and consumables,269000,0
+6000,Administrative salaries,258000,0
+6100,Professional fees,86500,0
+6200,Repairs and maintenance,94000,0
+6300,Finance costs,56800,0
+6400,Depreciation,80400,0

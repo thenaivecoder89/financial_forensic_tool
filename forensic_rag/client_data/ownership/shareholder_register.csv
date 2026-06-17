@@ -1,0 +1,4 @@
+shareholder_id,name,type,ownership_pct,address,ubo,notes
+SH-001,Horizon Holding SPC,Corporate,55,"Office 1802, Harbour Tower, Manama",Nasser Al Faris,Also creditor under shareholder loan
+SH-002,Mariam Al Faris,Individual,25,"Villa 18, Road 302, Saar",Mariam Al Faris,Address overlaps with Pearl Crescent Trading W.L.L.
+SH-003,Gulf Growth Partners FZE,Corporate,20,"Dubai, UAE",Aisha Rahman,Minority investor

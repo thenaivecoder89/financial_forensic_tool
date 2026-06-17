@@ -1,0 +1,5 @@
+customer_id,customer_name,balance,current,days_31_60,days_61_90,over_90,dispute_status
+C-001,Al Manama Hotels B.S.C.,236000,60000,75000,101000,0,No formal dispute
+C-002,Gulf Horizon Properties W.L.L.,152500,76500,76000,0,0,No formal dispute
+C-003,Delta Retail Bahrain SPC,88000,0,0,36000,52000,Claims rebate under side letter
+C-004,Blue Sand International Trading,0,0,0,0,0,Collected; contract missing

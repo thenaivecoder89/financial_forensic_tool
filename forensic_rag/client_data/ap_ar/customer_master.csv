@@ -1,0 +1,6 @@
+customer_id,customer_name,cr_no,sector,status,credit_terms_days,risk_note
+C-001,Al Manama Hotels B.S.C.,CR-552211,Hospitality,Active,60,Largest customer
+C-002,Gulf Horizon Properties W.L.L.,CR-661120,Real estate,Active,45,Second largest customer
+C-003,Delta Retail Bahrain SPC,CR-449980,Retail,Active,90,Side letter grants rebate/credit note rights
+C-004,Blue Sand International Trading,CR-990013,Trading,Active,30,Name screening potential match; verify false positive
+C-005,Harbour Mall Services,CR-103390,Commercial property,Active,45,Standard

@@ -1,0 +1,20 @@
+account_code,account_name,account_type
+1000,Cash and bank,Asset
+1100,Trade receivables,Asset
+1200,Inventory and consumables,Asset
+1500,"Property, plant and equipment",Asset
+2000,Trade payables,Liability
+2100,Bank loans,Liability
+2200,Accrued expenses,Liability
+3000,Share capital,Equity
+3100,Retained earnings,Equity
+4000,Facilities management revenue,Revenue
+4100,Service contract revenue,Revenue
+5000,Direct labour cost,Expense
+5100,Subcontractor cost,Expense
+5200,Materials and consumables,Expense
+6000,Administrative salaries,Expense
+6100,Professional fees,Expense
+6200,Repairs and maintenance,Expense
+6300,Finance costs,Expense
+6400,Depreciation,Expense

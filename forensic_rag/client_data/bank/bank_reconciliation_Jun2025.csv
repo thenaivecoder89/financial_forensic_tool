@@ -1,0 +1,3 @@
+recon_date,bank_account,bank_balance,gl_cash_balance,difference,recon_item,aging_days,status,owner
+2025-06-30,BBK Main 001,196500,231500,-35000,Intercompany advance to Horizon Holding SPC,12,Unrecorded in GL,Finance Controller
+2025-06-30,NBB Operations 814,61500,61500,0,None,0,Reconciled,Senior Accountant

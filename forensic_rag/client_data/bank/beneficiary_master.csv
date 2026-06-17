@@ -1,0 +1,5 @@
+beneficiary_name,bank_name,iban,vendor_id,date_added,added_by,approved_by,notes
+Pearl Crescent Trading W.L.L.,BBK,BH12BBKU00000011122233,V-014,2025-03-27,s.ali,m.kareem,Address matches related party address in ownership register
+Desert Star Consulting SPC,NBB,BH45NBOB00000999888777,V-019,2025-05-05,n.faraj,n.faraj,Self-approved addition
+Yousuf Rahman,BBK,BH31BBKU00000777711122,,2025-06-04,n.faraj,n.faraj,"Individual beneficiary, no vendor record"
+Gulf Supplies SPC,Bahrain Islamic Bank,BH20BISB00000111111111,V-001,2023-02-01,r.jassim,m.kareem,Standard supplier

@@ -1,0 +1,5 @@
+vendor_id,vendor_name,cr_no,address,bank_account_name,iban,date_created,status,risk_note
+V-001,Gulf Supplies SPC,CR-100112,"Building 12, Manama Industrial Area",Gulf Supplies SPC,BH20BISB00000111111111,2023-02-01,Active,Standard supplier
+V-014,Pearl Crescent Trading W.L.L.,CR-778812,"Villa 18, Road 302, Saar",Pearl Crescent Trading W.L.L.,BH12BBKU00000011122233,2025-03-27,Active,Address matches director/shareholder-related address; enhanced review needed
+V-019,Desert Star Consulting SPC,CR-889901,"Office 402, Seef Business Tower",Desert Star Consulting SPC,BH45NBOB00000999888777,2025-05-05,Active,Created shortly before split consulting payments
+V-021,Falcon Maintenance W.L.L.,CR-665501,Tubli Industrial Zone,Falcon Maintenance W.L.L.,BH90BBKU00000333444555,2022-06-12,Active,Legal claim outstanding

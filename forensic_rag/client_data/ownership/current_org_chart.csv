@@ -1,0 +1,6 @@
+employee_id,name,role,reports_to,function
+E-001,Ahmed Hassan,CEO,,Leadership
+E-002,Mohammed Kareem,CFO,CEO,Finance
+E-003,Sara Ali,Senior Accountant,CFO,Finance
+E-004,Nabil Faraj,Operations Manager,CEO,Operations
+E-005,Lina Thomas,Procurement Officer,Operations Manager,Procurement

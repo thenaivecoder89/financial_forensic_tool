@@ -1,0 +1,6 @@
+transaction_type,threshold,required_approval,notes
+Supplier payment,"<= 5,000",Department Head,Multiple payments to same vendor within 7 days should be aggregated
+Supplier payment,"5,001 - 25,000",CFO,PO and invoice required
+Supplier payment,"> 25,000",CEO + CFO,Board notification if unusual/non-routine
+Asset disposal,"> 10,000 NBV",Board approval,Independent valuation required
+Related-party transaction,Any amount,Board approval and disclosure,Conflict declaration required

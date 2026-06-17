@@ -1,0 +1,8 @@
+invoice_no,customer_id,customer_name,invoice_date,amount,contract_ref,status,notes
+SI-2504-001,C-001,Al Manama Hotels B.S.C.,2025-04-05,98000,CUST-AMH-2024,Partially collected,
+SI-2505-001,C-001,Al Manama Hotels B.S.C.,2025-05-05,99000,CUST-AMH-2024,Open,
+SI-2506-001,C-001,Al Manama Hotels B.S.C.,2025-06-05,101000,CUST-AMH-2024,Open,
+SI-2504-002,C-002,Gulf Horizon Properties W.L.L.,2025-04-07,74000,CUST-GHP-2023,Collected,
+SI-2505-002,C-002,Gulf Horizon Properties W.L.L.,2025-05-07,76000,CUST-GHP-2023,Open,
+SI-2506-002,C-002,Gulf Horizon Properties W.L.L.,2025-06-07,76500,CUST-GHP-2023,Open,
+SI-2506-004,C-004,Blue Sand International Trading,2025-06-15,42000,,Collected,No executed contract found

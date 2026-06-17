@@ -1,0 +1,5 @@
+screening_date,screened_name,type,result,match_score,list_source,review_status
+2025-06-30,Pearl Crescent Trading W.L.L.,Entity,No exact match,0.12,Synthetic UN dataset,Cleared
+2025-06-30,Blue Sand International Trading,Entity,Potential name similarity to listed alias Blue Sand Intl,0.82,Synthetic sanctions list,Manual review required
+2025-06-30,Yousuf Rahman,Individual,No exact match,0.33,Synthetic UN dataset,Insufficient KYC; confirm identity
+2025-06-30,Redwood Capital FZE,Entity,No exact match,0.21,Synthetic UN dataset,Clear but source-of-funds unresolved

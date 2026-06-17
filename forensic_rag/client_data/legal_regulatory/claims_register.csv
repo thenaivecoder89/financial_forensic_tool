@@ -1,0 +1,3 @@
+claim_id,counterparty,claim_date,amount,matter,status,legal_priority
+L-001,Falcon Maintenance W.L.L.,2025-06-12,45000,Claim for unpaid emergency works scope expansion,Demand letter received; not accrued,Amber/Red depending support
+L-002,Delta Retail Bahrain SPC,2025-06-20,52000,Credit note/rebate claimed under side letter,Credit note issued,Amber
