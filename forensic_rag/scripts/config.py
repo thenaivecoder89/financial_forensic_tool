@@ -1,3 +1,7 @@
+# File_name: config.py
+# Purpose: To store all common paths, database settings, model settings,
+# and project-level constants used by the RAG pipeline
+
 from pathlib import Path
 import os
 from dotenv import load_dotenv
