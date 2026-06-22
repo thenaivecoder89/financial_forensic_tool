@@ -88,27 +88,28 @@ corpus_folder_map = {
 }
 
 #  Basic project checks - to confirm required project folders exist
-required_input_folders = [
-    client_data_dir,
-    corpus_dir,
-    client_data_packs["ap_ar"],
-    client_data_packs["bank"],
-    client_data_packs["contracts"],
-    client_data_packs["financials"],
-    client_data_packs["legal_regulatory"],
-    client_data_packs["ownership"],
-    corpus_packs["aml_sanctions"],
-    corpus_packs["bahrain_context"],
-    corpus_packs["forensic_methodology"],
-    corpus_packs["internal_controls"],
-    corpus_packs["report_structure"]
-]
+if __name__ == "__main__":
+    required_input_folders = [
+        client_data_dir,
+        corpus_dir,
+        client_data_packs["ap_ar"],
+        client_data_packs["bank"],
+        client_data_packs["contracts"],
+        client_data_packs["financials"],
+        client_data_packs["legal_regulatory"],
+        client_data_packs["ownership"],
+        corpus_packs["aml_sanctions"],
+        corpus_packs["bahrain_context"],
+        corpus_packs["forensic_methodology"],
+        corpus_packs["internal_controls"],
+        corpus_packs["report_structure"]
+    ]
 
-for folder in required_input_folders:
-    if not folder.exists():
-        print(f"WARNING! Folder does not exist: {folder}")
-    else:
-        print("Folder checks passed!")
+    for folder in required_input_folders:
+        if not folder.exists():
+            print(f"WARNING! Folder does not exist: {folder}")
+        else:
+            print("Folder checks passed!")
 
 
 # Print configuration summary - 1st if condition added to ensure this codebase
