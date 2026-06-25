@@ -137,7 +137,7 @@ for scan_root in folders_to_scan:
         # - ZIP is not indexed directly, it is extracted first
         if file_ext in [".pdf", ".docx", ".txt", ".md", ".html", ".json"]:
             index_in_rag = "Yes"
-        elif file_ext in [".csv", ".xlsx", ".xls"]:
+        elif file_ext in [".csv", ".xlsx", ".xls", ".identifier", ".pdf:mshield", ".json:mshield", ".xml:mshield", ".txt:mshield", ".csv:mshield"]:
             index_in_rag = "No"
         elif file_ext == ".zip":
             index_in_rag = "No_extract_archive_first"
@@ -189,6 +189,7 @@ for scan_root in folders_to_scan:
 # Write inventory to CSV
 inventory_df = pd.DataFrame(inventory_rows)
 inventory_df = inventory_df[inventory_columns]
+inventory_df.index.name = "SNo."
 inventory_df.to_csv(config.document_inv)
 
 # Print basic summary
