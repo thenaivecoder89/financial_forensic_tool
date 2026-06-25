@@ -64,6 +64,7 @@ client_data_packs = {
 supported_text_extensions = [".txt", ".md"]
 supported_document_extensions = [".pdf", ".docx"]
 supported_table_extensions = [".csv", ".xlsx", ".xls"]
+supported_web_extensions = [".html", ".xml", ".html"]
 supported_archive_extensions = [".zip"]
 exclude_from_rag = {
     "validation_ground_truth_findings.csv",
@@ -74,6 +75,7 @@ supported_file_types = (
     supported_text_extensions
     + supported_document_extensions
     + supported_table_extensions
+    + supported_web_extensions
     + supported_archive_extensions
 )
 store_raw_files_in_db = False # To avoid storing large files like the ACFE Manual as raw binary in DB
