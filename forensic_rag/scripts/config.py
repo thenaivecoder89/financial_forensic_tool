@@ -25,6 +25,7 @@ if not db_url:
         "Database URL variable is not set. Please set to railway DB using public connection string."
     )
 db_schema = "forensic_rag"
+document_inv = os.getenv("DOCUMENT_INV")
 
 # LLM
 openai_api_key = os.getenv("OPENAI_API_KEY")
